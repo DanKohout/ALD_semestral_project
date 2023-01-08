@@ -4,7 +4,7 @@ Daniel Kohout
 
 ### Programovací jazyk: C#
 
-## GUI
+## GUI (WPF)
 Při spuštění se vygeneruje prázdná mapa, můžete buď krokovat algoritmus pomocí tlačítka Step, nebo můžete vygenerovat celou pomocí tlačítka Finish. Po vygenerování můžeme proces opakovat pomocí tlačítka Reset. Mapa je o velikosti 10x10;
 
 ## Algoritmus
