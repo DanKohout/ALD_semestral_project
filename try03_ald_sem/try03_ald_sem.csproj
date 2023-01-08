@@ -1,0 +1,50 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Assets\Cross3_0111.png" />
+    <None Remove="Assets\Cross3_1011.png" />
+    <None Remove="Assets\Cross3_1101.png" />
+    <None Remove="Assets\Cross3_1110.png" />
+    <None Remove="Assets\Cross4.png" />
+    <None Remove="Assets\Curve_0011.png" />
+    <None Remove="Assets\Curve_0110.png" />
+    <None Remove="Assets\Curve_1001.png" />
+    <None Remove="Assets\Curve_1100.png" />
+    <None Remove="Assets\Empty.png" />
+    <None Remove="Assets\End_0001.png" />
+    <None Remove="Assets\End_0010.png" />
+    <None Remove="Assets\End_0100.png" />
+    <None Remove="Assets\End_1000.png" />
+    <None Remove="Assets\NotReady.png" />
+    <None Remove="Assets\Straight_0101.png" />
+    <None Remove="Assets\Straight_1010.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Assets\Cross3_0111.png" />
+    <Resource Include="Assets\Cross3_1011.png" />
+    <Resource Include="Assets\Cross3_1101.png" />
+    <Resource Include="Assets\Cross3_1110.png" />
+    <Resource Include="Assets\Cross4.png" />
+    <Resource Include="Assets\Curve_0011.png" />
+    <Resource Include="Assets\Curve_0110.png" />
+    <Resource Include="Assets\Curve_1001.png" />
+    <Resource Include="Assets\Curve_1100.png" />
+    <Resource Include="Assets\Empty.png" />
+    <Resource Include="Assets\End_0001.png" />
+    <Resource Include="Assets\End_0010.png" />
+    <Resource Include="Assets\End_0100.png" />
+    <Resource Include="Assets\End_1000.png" />
+    <Resource Include="Assets\NotReady.png" />
+    <Resource Include="Assets\Straight_0101.png" />
+    <Resource Include="Assets\Straight_1010.png" />
+  </ItemGroup>
+
+</Project>
